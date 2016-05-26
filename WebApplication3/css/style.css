@@ -1,0 +1,38 @@
+﻿body {
+    background-color:aqua;
+}
+#menu{
+    width:200px;
+    position:fixed;
+    border-bottom-color: aquamarine;
+    top:100px;
+    right:100px;
+
+}
+#menu ul{
+    list-style-type:none;
+    
+}
+#menu li{
+    
+    border:1px solid red;
+  
+    background-color: rgba(255, 216, 0, .5);
+   border-radius:5px;
+    padding:10px;
+    margin:3px;
+    outline-color:aliceblue;
+    box-shadow:10px 10px 5px red;
+    
+}
+#menu li a{
+    text-transform:uppercase;
+    text-decoration:none;
+}
+header{
+    background-color:red;
+}
+
+#link1>h1{
+    color:red;
+}
