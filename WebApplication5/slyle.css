@@ -1,10 +1,9 @@
 ﻿body {
-    background-color:aqua;
+    
 }
-#heltheader{
-    background-color:#808080;
-}
-#headbg{
+
+
+.headbg{
     background-color:aquamarine;
 }
 #aside1{
@@ -15,4 +14,10 @@
 }
 #contenthuvud{
     background-color:blueviolet;
+}.hel{
+    background-color:#dcd962;
+
 }
+ .content{
+     background-color:chocolate;
+ }
